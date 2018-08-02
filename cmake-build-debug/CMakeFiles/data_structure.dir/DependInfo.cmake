@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/blankness/CLionProjects/data_structure/main.cpp" "/home/blankness/CLionProjects/data_structure/cmake-build-debug/CMakeFiles/data_structure.dir/main.cpp.o"
+  "/home/blankness/CLionProjects/data_structure/queue.cpp" "/home/blankness/CLionProjects/data_structure/cmake-build-debug/CMakeFiles/data_structure.dir/queue.cpp.o"
+  "/home/blankness/CLionProjects/data_structure/tree.cpp" "/home/blankness/CLionProjects/data_structure/cmake-build-debug/CMakeFiles/data_structure.dir/tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

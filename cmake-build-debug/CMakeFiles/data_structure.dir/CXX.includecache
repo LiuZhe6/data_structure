@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blankness/CLionProjects/data_structure/main.cpp
+iostream
+-
+
+/home/blankness/CLionProjects/data_structure/queue.cpp
+malloc.h
+-
+queue.h
+/home/blankness/CLionProjects/data_structure/queue.h
+
+/home/blankness/CLionProjects/data_structure/queue.h
+
+/home/blankness/CLionProjects/data_structure/tree.cpp
+cstdlib
+-
+cstdio
+-
+tree.h
+/home/blankness/CLionProjects/data_structure/tree.h
+queue.h
+/home/blankness/CLionProjects/data_structure/queue.h
+
+/home/blankness/CLionProjects/data_structure/tree.h
+

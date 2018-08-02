@@ -87,6 +87,18 @@
 		<Unit filename="/home/blankness/CLionProjects/data_structure/main.cpp">
 			<Option target="data_structure"/>
 		</Unit>
+		<Unit filename="/home/blankness/CLionProjects/data_structure/queue.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="/home/blankness/CLionProjects/data_structure/queue.h">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="/home/blankness/CLionProjects/data_structure/tree.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="/home/blankness/CLionProjects/data_structure/tree.h">
+			<Option target="data_structure"/>
+		</Unit>
 		<Unit filename="/home/blankness/CLionProjects/data_structure/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
